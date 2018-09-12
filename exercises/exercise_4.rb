@@ -39,5 +39,3 @@ end
   true,
   1000000
   )
-
-pp @womens_stores_under_1_million
